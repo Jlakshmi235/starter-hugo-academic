@@ -1,20 +1,22 @@
 ---
-title: "An example conference paper"
+title: "Sensor Self-Report Alignment (SSRA): Reducing Sun Exposure Assessment Error"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- T. K. Stump 
+- J. K. Robinson
+- N. Alshurafa
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# # Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/PerComWorkshops48775.2020.9156234"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
