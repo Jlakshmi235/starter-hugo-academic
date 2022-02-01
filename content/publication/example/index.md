@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: "10.1109/PerComWorkshops48775.2020.9156234"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +28,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In 2020 IEEE International Conference on Pervasive Computing and Communications Workshops
+publication_short: In *PerCom Workshops*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In population and clinical-based studies, UV wearable sensors are increasingly being used to estimate UV exposure and time spent in physical activity outdoors, which is critical for understanding people's sun exposure behavior. This is particularly important in young adults at risk of developing melanoma as well as melanoma survivors, who want to continue engaging in outdoor activities which are a normal source of recreational physical activity. While wearable sensors provide objective and timely measures in free-living populations, self-report data are needed to provide important contextual information (e.g. sunscreen applied, clothing to protect from the sun) that improve our understanding of health behaviors. However, lack of proper time alignment between sensor and self-report data hinders analyses incorporating these data streams. We formulate this problem of alignment as a network flow graph and propose a Sensor Self-Report Alignment (SSRA) framework to fuse and align data from a chest-worn UV sensor, a hip-worn physical activity sensor, and a self-report. We performed a study on 40 participants (20 melanoma survivors, 20 young adults, who were first-degree relatives of melanoma survivors) who wore a chest-worn UV sensor and a hip-worn physical activity sensor for 7 consecutive summer days (total of 254 days assessed) and provided end-of-day self-reports of sun protection. The proposed SSRA framework provides a new approach to aligning sensor and self-report data, which results in significant changes in measures of time outdoors, as assessed by UV or physical activity sensors. This paper highlights the importance of using wearable sensors and alignment to self-report to reduce sun exposure assessment error, while laying the groundwork for integrating such a framework into population-based studies.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
