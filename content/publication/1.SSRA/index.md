@@ -33,8 +33,8 @@ publication_short: In *PerCom Workshops*
 
 abstract: In population and clinical-based studies, UV wearable sensors are increasingly being used to estimate UV exposure and time spent in physical activity outdoors, which is critical for understanding people's sun exposure behavior. This is particularly important in young adults at risk of developing melanoma as well as melanoma survivors, who want to continue engaging in outdoor activities which are a normal source of recreational physical activity. While wearable sensors provide objective and timely measures in free-living populations, self-report data are needed to provide important contextual information (e.g. sunscreen applied, clothing to protect from the sun) that improve our understanding of health behaviors. However, lack of proper time alignment between sensor and self-report data hinders analyses incorporating these data streams. We formulate this problem of alignment as a network flow graph and propose a Sensor Self-Report Alignment (SSRA) framework to fuse and align data from a chest-worn UV sensor, a hip-worn physical activity sensor, and a self-report. We performed a study on 40 participants (20 melanoma survivors, 20 young adults, who were first-degree relatives of melanoma survivors) who wore a chest-worn UV sensor and a hip-worn physical activity sensor for 7 consecutive summer days (total of 254 days assessed) and provided end-of-day self-reports of sun protection. The proposed SSRA framework provides a new approach to aligning sensor and self-report data, which results in significant changes in measures of time outdoors, as assessed by UV or physical activity sensors. This paper highlights the importance of using wearable sensors and alignment to self-report to reduce sun exposure assessment error, while laying the groundwork for integrating such a framework into population-based studies.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -78,12 +78,12 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
