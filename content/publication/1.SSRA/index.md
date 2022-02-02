@@ -21,6 +21,7 @@ doi: "10.1109/PerComWorkshops48775.2020.9156234"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01T00:00:00Z"
 
+PDF: Sensor_Self-Report_Alignment_SSRA_Reducing_Sun_Exposure_Assessment_Error.pdf
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -58,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'I'
+  caption: ''
   focal_point: ""
   preview_only: false
 
